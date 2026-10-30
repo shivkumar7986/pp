@@ -1,0 +1,136 @@
+.layout-content-navbar .content-wrapper nav#layout-navbar {
+  background-color: #36a9e1 !important;
+}
+h4.align-items-center {
+  color: #fff;
+}
+/* element.style {
+       color: #fff;
+       border-radius: 0px;
+       background-color: #1E8FC6;
+   } */
+.button.chakra-button.css-ez23ye {
+  color: #fff;
+  border-radius: 0px;
+  background-color: #1e8fc6;
+}
+
+/* admin csss */
+img,
+svg {
+  /* gap: 38px; */
+  vertical-align: middle;
+  width: 180%;
+  height: 107%;
+}
+ul.navbar-nav.me-auto.mb-2.mb-lg-0 {
+  gap: 24px;
+}
+svg.twitter {
+  color: #288dc9;
+}
+svg.facebook {
+  color: #2981ef;
+}
+svg.linkdin {
+  color: #01b1eb;
+}
+
+svg.youtube {
+  color: #dd1515;
+}
+svg.google {
+  color: #3295e9;
+}
+nav.navbar.navbar-expand-lg {
+  background-color: #f9f9f9;
+}
+.col-md-8.logocms {
+  font-size: 40px;
+}
+svg.call {
+  width: 28px;
+  color: #4982b3;
+}
+svg.mail {
+  width: 28px;
+  color: #4982b3;
+}
+nav.py-2 {
+  background-color: #679fc7;
+}
+
+button.pageName.font-weight-bold:hover {
+  background: #98bbdb;
+  padding-block: 4px;
+  /* padding-inline: 27px; */
+  border-radius: 4px;
+  color: white;
+  font-weight: bold;
+}
+button.pageName.font-weight-bold {
+  border: 2px solid #98bbdb;
+  padding-block: 4px;
+  padding-inline: 27px;
+  border-radius: 4px;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+}
+.editorContent {
+  text-align: center;
+  background: #eefbee;
+  width: 50%;
+  margin: auto;
+}
+h2.headingContent {
+  font-weight: bolder;
+  margin-top: 6px;
+  margin-bottom: 34px;
+}
+div.collapse.navbar-collapse.top-nabar.admin-navbar{
+
+  visibility: visible;
+
+
+}
+
+ul.dropdown-menu.show.adminPage {
+  visibility: visible;
+  opacity: 1;
+  position: absolute;
+  inset: 0px auto auto 0px;
+  margin: 0px;
+  transform: translate3d(0px, 40px, 0px);
+}
+
+.editorContent {
+  visibility: visible;
+  text-align: center;
+  background: #e3ebf1;;
+  width: 100%;
+  /* margin: auto; */
+  opacity: revert-layer;
+}
+
+
+footer.footer.bg-footer-theme.footer-admin {
+  margin-top: 170px;
+  background: black;
+  color: darkgray;
+}
+
+button.btn.btn-secondary.drop-btn.dropdown-toggle.admin-dropdown {
+  border: 2px solid white;
+}
+
+button.pageName.without-drop.font-weight-bold {
+  border: 2px solid white;
+}
+ .error-borders{
+  border: 1px solid red;
+
+
+}
+.error-border{
+  border: 1px solid red;
+}

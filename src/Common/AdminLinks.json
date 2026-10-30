@@ -1,0 +1,86 @@
+[
+  {
+    "class": "",
+    "liClass": "mt-10",
+    "name": "Dashboard",
+    "link": "/admin/dashboard",
+    "activeLink": ["/admin/dashboard"],
+    "icon": "fa fa-dashboard",
+    "title": "Dashboard",
+    "AClass": "f-Dashboard"
+    
+  },
+  {
+    "class": "",
+    "liClass": "",
+    "name": "Menu",
+    "link": "/admin/menu",
+    "icon": "fa fa-bars",
+    "title": "Menu",
+    "AClass": "f-menu"
+  },
+
+  {
+    "class": "",
+    "liClass": "",
+    "name": "Pages",
+    "link": "/admin/pages",
+    "icon": "fa fa-file-text-o",
+    "title": "Pages",
+    "AClass": "f-pages"
+  },
+  {
+    "class": "",
+    "liClass": "",
+    "name": "Forms",
+    "link": "/admin/forms",
+    "icon": "fa fa-table",
+    "title": "Forms",
+    "AClass": "f-forms"
+  },
+  {
+    "class": "",
+    "liClass": "",
+    "name": "HomeSlider",
+    "link": "/admin/homeslider",
+    "icon": "fa fa-laptop",
+    "title": "HomeSlider",
+    "AClass": "f-homslides"
+  },
+  {
+    "class": "",
+    "liClass": "",
+    "name": "Media",
+    "link": "/admin/media",
+    "icon": "fa fa-camera-retro",
+    "title": "Media",
+    "AClass": "f-media"
+  },
+  {
+    "class": "",
+    "liClass": "",
+    "name": "Blog",
+    "link": "/admin/blog",
+    "icon": "fa fa-bars",
+    "title": "Blog",
+    "AClass": "f-blog"
+  },
+  {
+    "class": "",
+    "liClass": "",
+    "name": "Theme",
+    "link": "/admin/theme",
+    "icon": "fa fa-th",
+    "title": "Theme",
+    "AClass": "f-theme"
+  },
+  {
+    "class": "",
+    "liClass": "",
+    "name": "Global Settings",
+    "link": "/admin/globalSettings",
+    "icon": "fa fa-cogs",
+    "title": "Global Settings",
+    "AClass": "f-g-settings"
+  }
+]

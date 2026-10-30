@@ -1,0 +1,13 @@
+.sidebar ul li a ,.sidebar ul li button.for-new-style{
+    padding-left: 1.25rem !important;
+    padding-top: 0.75rem !important;
+  padding-bottom: 0.75rem !important;
+  }
+  .collapse_menu{width:74px; }
+  #collapse {transition: all .3s ease;}
+  .collapse_menu .sidebar ul li a span , .collapse_menu .sidebar ul li button.for-new-style span{opacity: 0; transition: all .3s ease;}
+  .sidebar ul li a img { width: 185px;position: absolute;top: 15px;height: 42px;}
+  .sidebar ul li:first-child a {position: relative;min-height: 70px;}
+  .sidebar ul li a{position: relative;}
+  .sidebar ul li a span ,.sidebar ul li button.for-new-style span{position:absolute;left: 60px;}
+  .sidebar ul li:first-child a::after {content: "";width: 30px;right: -17px;top: 0;background: #0891b2;height: 100%;z-index: 9;position: absolute;}

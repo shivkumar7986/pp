@@ -1,0 +1,60 @@
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: white !important;
+    background-color: #5cc1f3 !important;
+border-top: 2px solid rgb(248, 234, 190);
+  }
+  button{
+
+    background-color:rgb(236, 138, 138) ;
+    border:  2px;
+    border-radius: 10px;
+  }
+  
+.for-input {
+  min-height: 38px;
+  width: fit-content;
+  border: solid 1px #b7b7b7;
+  border-radius: 6px;
+  min-width: 75px;
+  padding: 8px 20px 8px 15px;
+  box-sizing: border-box;
+  color: inherit;
+  max-width: 100%;
+  resize: none;
+  max-height: 38px;
+  line-height: 18px;
+  background-color: transparent;
+  outline: none!important;
+}
+.chakra-select__icon-wrapper{opacity: 0;}
+.copy {
+  border: solid 1px transparent;
+  border-radius: 15px;
+  padding: 1px 8px;
+  font-size: 14px;
+  background: #e3e3e3;
+  outline: none;
+  text-transform: capitalize;
+}
+.copied{
+  border: solid 1px #1E8FC6;
+  border-radius: 15px;
+  padding: 1px 8px;
+  background: #1E8FC6;
+  color: #fff;
+  cursor: pointer;
+  font-size: 14px;
+  outline: none!important;
+  text-transform: capitalize;
+}
+.save_btn{
+  background: #1E8FC6;
+  padding: 6px 16px;
+  color: #fff;
+  border-radius: 6px;
+  border: solid 1px #1E8FC6;
+  font-size: 16px;
+  cursor: pointer;
+  outline: none!important;
+  height: 40px;
+}
